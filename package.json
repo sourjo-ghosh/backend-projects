@@ -1,0 +1,12 @@
+{
+  "name": "backend-projects",
+  "version": "1.0.0",
+  "description": "This is my first backend large project",
+  "license": "ISC",
+  "author": "Joy Ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
